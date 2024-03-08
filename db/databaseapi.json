@@ -1,0 +1,190 @@
+{
+  "customerlogregister": [
+    {
+      "id": "1",
+      "fullname": "Yashvardhan Singh Shekhawat",
+      "username": "yashvardhan0488@gmail.com",
+      "password": "bannayash@11"
+    },
+    {
+      "id": "8fcc",
+      "username": "tashvardhan0488@gmail.com",
+      "password": "bannayash@11"
+    },
+    {
+      "id": "196d",
+      "username": "sdf",
+      "password": "gfsds"
+    },
+    {
+      "id": "f2cb",
+      "username": "adfs",
+      "password": "sadf"
+    },
+    {
+      "id": "ef9d",
+      "username": "gfssd",
+      "password": "fdgsd"
+    },
+    {
+      "id": "baa6",
+      "username": "afsdfa",
+      "password": "asdfa"
+    },
+    {
+      "id": "54a9",
+      "username": "asdf",
+      "password": "asdf"
+    }
+  ],
+  "clientreview": [
+    {
+      "id": "1",
+      "fullname": "Yashvardhan Singh",
+      "position": "UI DESIGNER",
+      "email": "yashvardhan0488@gmail.com",
+      "reviewimage": "http://localhost:3000/static/media/person_1.3955ff879ea1569e2a70.jpg",
+      "reviewmessage": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+    },
+    {
+      "id": "2",
+      "fullname": "Yashvardhan Singh Shekhawat",
+      "position": "UI DESIGNER",
+      "email": "yashvardhan0488@gmail.com",
+      "review-mage": "http://localhost:3000/static/media/person_1.3955ff879ea1569e2a70.jpg",
+      "reviewmessage": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+    },
+    {
+      "id": "3",
+      "fullname": "Yashvardhan Singh Shekhawat",
+      "position": "UI DESIGNER",
+      "email": "yashvardhan0488@gmail.com",
+      "reviewimage": "http://localhost:3000/static/media/person_1.3955ff879ea1569e2a70.jpg",
+      "reviewmessage": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+    },
+    {
+      "id": "4",
+      "fullname": "Yashvardhan Singh Shekhawat",
+      "position": "UI DESIGNER",
+      "email": "yashvardhan0488@gmail.com",
+      "reviewimage": "http://localhost:3000/static/media/person_1.3955ff879ea1569e2a70.jpg",
+      "reviewmessage": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+    }
+  ],
+  "serviceprovide": [
+    {
+      "id": "1",
+      "title": "Free Shipping",
+      "content": "Separated they live in. A small river named Duden flows",
+      "icon": "flaticon-bag"
+    },
+    {
+      "id": "2",
+      "title": "Valuable Gifts",
+      "content": "Separated they live in. A small river named Duden flows",
+      "icon": "flaticon-heart-box"
+    },
+    {
+      "id": "3",
+      "title": "All Day Support",
+      "content": "Separated they live in. A small river named Duden flows",
+      "icon": "flaticon-payment-security"
+    },
+    {
+      "id": "4",
+      "title": "All Day Support",
+      "content": "Separated they live in. A small river named Duden flows",
+      "icon": "flaticon-customer-service"
+    }
+  ],
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true,
+      "id": "3420"
+    },
+    {
+      "role": "admin",
+      "menu": "supplier",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true,
+      "id": "2d77"
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "8e58"
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "73cf"
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris",
+      "email": "chris@in.com",
+      "id": "2a94"
+    },
+    {
+      "code": 2,
+      "name": "Lynn",
+      "email": "lynn@in.com",
+      "id": "6e02"
+    },
+    {
+      "code": 3,
+      "name": "Tim",
+      "email": "tim@in.com",
+      "id": "dd0f"
+    },
+    {
+      "code": 4,
+      "name": "Southee",
+      "email": "southee@in.com",
+      "id": "2787"
+    },
+    {
+      "code": 5,
+      "name": "boult",
+      "email": "bould@in.com",
+      "id": "3e0f"
+    }
+  ]
+}
